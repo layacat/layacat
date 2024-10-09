@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @layacat
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning everywhere
-- 💞️ I’m looking to collaborate on every opportunities
-- 📫 How to reach me: earth
-- 😄 Pronouns: laza/cat
+- 👋 Hi
 
 <!---
 layacat/layacat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
